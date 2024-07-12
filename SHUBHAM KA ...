@@ -1,0 +1,19 @@
+echo "# Louda-lasun-script" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ASHWIN-USERS/Louda-lasun-script.git
+git push -u origin main
+louda lelo
+exchange loda
+loda lasun for roo mth
+[
+README.md
+echo "# Louda-lasun-script" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ASHWIN-USERS/Louda-lasun-script.git
+git push -u origin main ]
